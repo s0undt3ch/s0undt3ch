@@ -1,6 +1,6 @@
 <p align="center">
-  <img height="285" src="https://github-readme-stats.vercel.app/api?username=s0undt3ch&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
-  <img height="285" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0undt3ch&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=s0undt3ch&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0undt3ch&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
 </p>
 
 <!--

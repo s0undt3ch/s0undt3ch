@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Algarvio, aka, s0undt3ch</h1>
 <h2 align="center">
-  <a href="https://www.linkedin.com/in/pedro.algarvio/">
+  <a href="https://www.linkedin.com/in/pedroalgarvio/">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
   </a>
   <a href="https://stackoverflow.com/users/1258307">

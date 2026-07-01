@@ -64,13 +64,11 @@ Created and shaped these from day one — I'm no longer actively maintaining the
 
 ### 📊 GitHub metrics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./github-metrics.svg">
-    <img alt="Metrics" src="./github-metrics.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-metrics.svg">
+  <img alt="Metrics" src="./github-metrics.svg">
+</picture>
 
 ### 🐍 Watch the snake eat my contributions
 

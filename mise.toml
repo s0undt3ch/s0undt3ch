@@ -1,0 +1,9 @@
+[tools]
+# Runs the pre-commit hooks.
+prek = "0.4.5"
+
+# Tools invoked by the s0undt3ch/pre-commit-hooks hooks. mise.toml is the single
+# source of truth for their versions — the hooks run these binaries from PATH.
+actionlint = "1.7.12"
+shellcheck = "0.11.0"
+rumdl = "0.2.26"

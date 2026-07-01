@@ -1,42 +1,109 @@
-<h1 align="center">Hi 👋, I'm Pedro Algarvio, aka, s0undt3ch</h1>
-<h2 align="center">
+<h1 align="center">Hi 👋, I'm Pedro Algarvio — aka <code>s0undt3ch</code></h1>
+
+<h3 align="center">Python developer from Portugal 🇵🇹 · testing-tooling enthusiast · long-time open-source contributor</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pedroalgarvio/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/1258307">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
   </a>
   <a href="https://blog.algarvio.me/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
-  </a>
-</h2>
-<h3 align="center">A passionate Python developer from Portugal</h3>
-<p align="center">
-  <a href="https://github.com/s0undt3ch">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=s0undt3ch&count_private=true&show_icons=true&theme=react" />
-  </a>
-  <a href="https://github.com/s0undt3ch">
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0undt3ch&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/s0undt3ch">
-    <img src="https://github-profile-trophy.vercel.app/?username=s0undt3ch&theme=gruvbox" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white">
   </a>
 </p>
 
+---
+
+### About me
+
+- 🐍 I've been writing Python for well over a decade and care a lot about **testing** and **developer tooling**.
+- 🧂 Long-time core contributor to [**Salt**](https://github.com/saltstack/salt) — one of its earliest and most
+  prolific contributors.
+- 🧪 I built a family of **`pytest` plugins** from the ground up to make testing infrastructure and system-level
+  code less painful.
+- 🦀 Lately I've been reaching for **Rust** for tooling — see [ToolR](https://github.com/s0undt3ch/ToolR).
+- 📝 I write about Python, testing and infrastructure at [blog.algarvio.me](https://blog.algarvio.me/).
+- 💬 Ask me about `pytest`, Salt, test frameworks, packaging, or automating anything.
+
+### What I'm building
+
+- [**ToolR**](https://github.com/s0undt3ch/ToolR) — in-project CLI tooling support, written in Rust
+  ([docs](https://toolr.readthedocs.io/)).
+- [**refine**](https://github.com/s0undt3ch/refine) — polishing and improving codebases automatically with
+  `libcst` ([docs](https://s0undt3ch.github.io/refine/)).
+
+### `pytest` plugins I built from the ground up
+
+Created and shaped these from day one — I'm no longer actively maintaining them, but they're still in use:
+
+- [**pytest-salt-factories**](https://github.com/saltstack/pytest-salt-factories) — write functional and
+  integration tests for Salt.
+- [**pytest-shell-utilities**](https://github.com/saltstack/pytest-shell-utilities) — spawn and assert against
+  shell processes in tests.
+- [**pytest-skip-markers**](https://github.com/saltstack/pytest-skip-markers) — platform/feature skip markers for
+  `pytest`.
+- [**pytest-system-statistics**](https://github.com/saltstack/pytest-system-statistics) — collect CPU/memory
+  statistics for the processes exercised during a test run.
+
+### Tech I reach for
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+  <img alt="Salt" src="https://img.shields.io/badge/Salt-00EACE?style=flat-square&logo=saltproject&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub metrics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./github-metrics.svg">
+    <img alt="Metrics" src="./github-metrics.svg">
+  </picture>
+</p>
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/s0undt3ch/s0undt3ch/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/s0undt3ch/s0undt3ch/output/github-snake.svg">
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/s0undt3ch/s0undt3ch/output/github-snake.svg">
+</picture>
 
 <!--
-**s0undt3ch/s0undt3ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ────────────────────────────────────────────────────────────────────────────
+  ONE-TIME SETUP (safe to delete once done)
 
-Here are some ideas to get you started:
+  The two dynamic pieces above are generated by scheduled GitHub Actions in
+  .github/workflows/ and committed back to this repo. To make them work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  1. github-metrics.svg + github-metrics.dark.svg (Metrics workflow)
+     - Create a *classic* Personal Access Token: https://github.com/settings/tokens
+       Scopes needed: `repo` (or just `public_repo`) and `read:org`.
+     - Add it to this repo as a secret named METRICS_TOKEN:
+       Settings → Secrets and variables → Actions → New repository secret.
+     - Run the "Metrics" workflow once from the Actions tab to seed both SVGs
+       (a light card and a dark card; the README picks per the reader's theme).
+
+  2. Contribution snake (Snake workflow)
+     - No token needed — it uses the built-in GITHUB_TOKEN.
+     - Ensure Actions have write access:
+       Settings → Actions → General → Workflow permissions → "Read and write".
+     - Run the "Snake" workflow once; it publishes the SVGs to the `output` branch.
+
+  Both workflows also re-run on a schedule, so the profile stays fresh on its own.
+  ────────────────────────────────────────────────────────────────────────────
 -->

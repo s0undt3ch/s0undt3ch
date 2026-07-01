@@ -1,0 +1,13 @@
+# rumdl configuration — https://github.com/rvben/rumdl
+
+[global]
+# This is a GitHub *profile* README: centered headings, shields.io badges and
+# <picture> elements all require inline HTML, so MD033 (no-inline-html) doesn't
+# apply here.
+disable = ["MD033"]
+
+[MD013]
+# Match the repo's markdown line-length convention; don't reflow code or tables.
+line-length = 120
+code-blocks = false
+tables = false
